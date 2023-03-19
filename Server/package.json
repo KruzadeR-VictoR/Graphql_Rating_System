@@ -1,0 +1,24 @@
+{
+  "name": "graphql-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "@apollo/server": "^4.5.0",
+    "apollo-server": "^3.12.0",
+    "cloudinary": "^1.35.0",
+    "dotenv": "^16.0.3",
+    "graphql": "^16.6.0",
+    "lodash": "^4.17.21",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.2"
+  }
+}
